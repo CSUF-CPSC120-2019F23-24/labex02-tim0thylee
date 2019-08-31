@@ -4,7 +4,7 @@
 
 int main ()
 {
-  //Declare required variables.
+  //Declare required variables to eventually display the tax, tip, and total cost.
   double meal_cost, tax, tip;
 
   //Get the meal cost.
